@@ -1,0 +1,8 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: sample
+      contact-points: localhost
+management:
+  security:
+    enabled: false  
